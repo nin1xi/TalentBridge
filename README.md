@@ -2,7 +2,6 @@
 
 A scalable and secure **full-stack job portal platform** built using the **MERN stack**, designed to streamline interaction between **job seekers** and **recruiters** through role-based access control, secure authentication, and modern UI/UX practices.
 
----
 
 # Overview
 
@@ -15,7 +14,6 @@ The project focuses on:
 - Cloud-based file handling
 - Responsive and dynamic user experience
 
----
 
 # Key Features
 
@@ -28,7 +26,7 @@ The project focuses on:
 - Update profile information
 - Upload resume and profile image
 
----
+
 
 ## Recruiter Module
 - Recruiter authentication
@@ -38,7 +36,6 @@ The project focuses on:
 - Accept or reject applications
 - Admin dashboard for managing jobs and companies
 
----
 
 # Technology Stack
 
@@ -51,7 +48,6 @@ The project focuses on:
 - Framer Motion
 - Axios
 
----
 
 ## Backend
 - Node.js
@@ -62,14 +58,14 @@ The project focuses on:
 - bcrypt.js
 - Multer
 
----
+
 
 ## Cloud & Development Tools
 - Cloudinary (media storage)
 - Postman (API testing)
 - Git & GitHub (version control)
 
----
+
 
 # System Architecture
 
@@ -92,7 +88,7 @@ backend/
 - File upload handling
 - Business logic implementation
 
----
+
 
 ## Frontend Structure
 
@@ -113,7 +109,7 @@ frontend/
 - API integration
 - User interaction handling
 
----
+
 
 # Authentication & Security
 
@@ -124,7 +120,7 @@ frontend/
 - Role-based access control
 - Secure cloud file uploads
 
----
+
 
 # File Upload Management
 
@@ -137,7 +133,7 @@ Implemented using:
 - Multer middleware
 - Cloudinary cloud storage
 
----
+
 
 # Application Workflow
 
@@ -148,7 +144,6 @@ Implemented using:
 4. Apply for jobs
 5. Track application status
 
----
 
 ## Recruiter Flow
 1. Register/Login
@@ -157,7 +152,7 @@ Implemented using:
 4. View applicants
 5. Accept or reject applications
 
----
+
 
 # Project Outcomes
 
@@ -172,7 +167,7 @@ Through this project, I gained practical experience in:
 - Scalable application architecture
 - Clean code organization and modular design
 
----
+
 
 # Future Enhancements
 
@@ -183,7 +178,7 @@ Through this project, I gained practical experience in:
 - Pagination and infinite scrolling
 - CI/CD deployment pipeline
 
----
+
 
 # Configuration Details
 
@@ -196,14 +191,15 @@ Through this project, I gained practical experience in:
 | User Roles | Student, Recruiter |
 | Token Expiry | 24 Hours |
 
----
+
 
 # Author
 
 **Nini**  
 GitHub: https://github.com/nin1xi
+
 LinkedIn:https://www.linkedin.com/in/poojav91
 
----
+
 
 # ⭐ If you found this project useful, consider giving it a star!
