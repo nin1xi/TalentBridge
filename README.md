@@ -115,7 +115,7 @@ frontend/
 
 ---
 
-# 🔐 Authentication & Security
+# Authentication & Security
 
 - JWT-based authentication
 - Password hashing using bcrypt
@@ -126,7 +126,7 @@ frontend/
 
 ---
 
-# 📂 File Upload Management
+# File Upload Management
 
 The application supports:
 - Resume upload (PDF)
@@ -185,7 +185,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# ⚙️ Configuration Details
+# Configuration Details
 
 | Feature | Details |
 |---|---|
@@ -198,11 +198,11 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 👤 Author
+# Author
 
 **Nini**  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+GitHub: https://github.com/nin1xi
+LinkedIn:https://www.linkedin.com/in/poojav91
 
 ---
 
