@@ -1,4 +1,4 @@
-# TalentBridge — Full Stack Job Portal Application
+# TalentBridge (Full Stack Job Portal Application)
 
 A scalable and secure **full-stack job portal platform** built using the **MERN stack**, designed to streamline interaction between **job seekers** and **recruiters** through role-based access control, secure authentication, and modern UI/UX practices.
 
